@@ -13,7 +13,7 @@ border()
     echo "$edge"
 }
 
-border "$username| $message" >> /home/null_b0n3s/Desktop/Github/NebulaOffice/PinBoardFiles/wall
+border "$username| $message" >> PinBoardFiles/wall
 done
 
 while true; do 
